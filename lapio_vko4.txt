@@ -2,9 +2,6 @@ koira
 kissa
 Terveisiä KOneelta
 hih
-<<<<<<< Updated upstream
 huhhuh
-=======
 jee
->>>>>>> Stashed changes
 hhhh
