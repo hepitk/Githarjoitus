@@ -2,4 +2,9 @@ koira
 kissa
 kakkahih
 hih
+<<<<<<< Updated upstream
 huhhuh
+=======
+jee
+>>>>>>> Stashed changes
+hhhh
